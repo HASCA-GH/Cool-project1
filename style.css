@@ -1,3 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: seagreen;
+}
+
 main {
   height: 45vw;
   width: 98vw;
